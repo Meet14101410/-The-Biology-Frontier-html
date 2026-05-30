@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Biology Frontier</title>
+</head>
+<body>
+    <h1>The Biology Frontier</h1>
+    <p>Explore cells, genes, and ecosystems!</p>
+    <button onclick="alert('Game Started!')">Start Game</button>
+</body>
+</html>
