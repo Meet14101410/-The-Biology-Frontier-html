@@ -1,0 +1,5 @@
+function startGame() {
+    alert("Welcome to The Biology Frontier!");
+}
+
+document.querySelector("button").addEventListener("click", startGame);
